@@ -1,8 +1,6 @@
 import java.math.BigInteger;
 
-/**
- * Created by B4RT on 2017-06-06.
- */
+
 public class Lotto {
     public static BigInteger factorial(int a)
      {
